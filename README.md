@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-Apenas um aluno da Faculdade de Computação da Universidade Federal de Mato Grosso do Sul.
+Apenas um aluno da Faculdade de Computação.
 
 No momento, estou aprendendo a usar o github para alguns projetos pessoais e/ou trabalhos e atividades da faculdade.
 
