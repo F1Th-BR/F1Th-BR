@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello There 👋
+
+Apenas um aluno da Faculdade de Computação da Universidade Federal de Mato Grosso do Sul.
+
+No momento, estou aprendendo a usar o github para alguns projetos pessoais e/ou trabalhos e atividades da faculdade.
 
 <!--
 **F1Th-BR/F1Th-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
